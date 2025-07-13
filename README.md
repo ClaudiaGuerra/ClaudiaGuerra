@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/ClaudiaGuerra/ClaudiaGuerra/main/CG-WD-Banner.png" alt="Banner Claudia Guerra" style="max-width:100%; border-radius:10px;" />
+
+
 <h1 align="center">Hi, I'm Claudia 👋</h1>
 
 <p align="center">
@@ -60,7 +63,7 @@ I recently completed a Web Development course, learning:
 ## Certifications
 
 - AWS Certified Cloud Practitioner (2025)
-- - Web Development & Cloud Computing – Mujer Digital · Junior Achievement (2024)  
+- Web Development & Cloud Computing – Mujer Digital · Junior Achievement (2024)  
 - Oracle Cloud Infrastructure 2023 Certified Foundations Associate  
 - Oracle Utilities Customer Cloud Service 2022 Certified Implementation Professional (2022)
 
