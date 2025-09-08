@@ -4,25 +4,17 @@
 <h1 align="center">Hi, I'm Claudia 👋</h1>
 
 <p align="center">
-  Aspiring Web Developer based in Leeds, UK · Former QA Consultant · AWS Certified · Physics graduate
+  Quality Assurance · Future Web Developer · Physics graduate · AWS Certified 
 </p>
 
 ---
 
 ## About Me
+ Quality Assurance Professional with 5+ years of experience in manual testing, including test design, execution, defect tracking, regression, exploratory testing and documentation. I am experienced in collaborating closely with developers in Agile environments. Recently completed an intensive web development program, adding skills in HTML, CSS, and JavaScript to my QA background.
 
-I’m an Aspiring Web Developer transitioning from a QA background — and yes, I *actually enjoyed testing*!  
-Working alongside developers sparked my interest in building beautiful, accessible, and intuitive interfaces. I'm also AWS Cloud Practitioner Certified. 
+Working closely on web application projects with developers has inspired my creative tendencies. For this reason, my long-term goal is to transition into technical development roles. I am eager to work as part of a strong team as a developer because I take pride in solving problems by creating products that provide an intuitive and appealing user experience. My experience in QA gives me a unique insight into the development process - I believe my quality-first mindset is a great asset to any team.
 
-My journey into code has been fueled by:
-- Curiosity to understand how things *work* under the hood  
-- Pride in delivering quality experiences (QA mindset still kicking!)  
-- The joy of turning ideas into working products  
-
-I recently completed a Web Development course, learning:
-- HTML5 · CSS3 · JavaScript · Git · GitHub · Responsive Design  
-- Basic React (currently learning by building!)  
-
+To aid in my career transition, I recently completed a Web Development course, in which I learned HTML, CSS, and JavaScript. Additionally, I earned the AWS Cloud Practitioner certificate. 
 
 ---
 
@@ -35,24 +27,9 @@ I recently completed a Web Development course, learning:
 
 ---
 
-## Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [**CV Website**](https://claudiaguerra.netlify.app) | Personal site built from scratch to showcase my story, skills, and journey. | HTML · CSS · Bootstrap |
-| [**Combo Guerra**](https://combito.netlify.app) | A CV for my dog! Just me having fun while practicing layout and design. | HTML · CSS |
-| **NebulaWeb Studio** | In progress – my future freelance dev studio concept. | Planned: React |
-
-> *Note: I'm currently improving my older projects and learning React to build new ones.*
-
----
-
 ## Experience Snapshot
 
-- **Intern Web Developer @ Actosoft MX** (July 2025 – present)  
-  Setting up tooling and dev workflows to support upcoming development tasks in a real-world project.
-
-- **QA Consultant @ Actosoft MX** (Nov 2024 – present)  
+- **QA Lead @ Actosoft MX** (Nov 2024 – present)  
   Helped build and test a restaurant web system, while mentoring interns and sharing feedback on UX.
 
 - **QA Consultant @ Oracle** (Aug 2022 – Apr 2024)  
@@ -74,9 +51,9 @@ I recently completed a Web Development course, learning:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudiaguerra-/)  
 📧 **claudiagbak@gmail.com**  
-🌐 [claudiaguerra.netlify.app](https://claudiaguerra.netlify.app)  
+🌐 [claudiaguerra.dev](https://claudiaguerra.dev)  
 💻 [github.com/ClaudiaGuerra](https://github.com/ClaudiaGuerra)
 
 ---
 
-<sub>This README was crafted with the creative support of Lucy (aka ChatGPT)</sub>
+<sub>This README was crafted with the creative support of Lucy (AI)</sub>
