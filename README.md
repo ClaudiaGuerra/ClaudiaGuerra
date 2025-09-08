@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ClaudiaGuerra/ClaudiaGuerra/main/CG-WD-Banner.png" alt="Banner Claudia Guerra" style="max-width:100%; border-radius:10px;" />
+<img src="https://raw.githubusercontent.com/ClaudiaGuerra/ClaudiaGuerra/main/banner.png" alt="Banner Claudia Guerra" style="max-width:100%; border-radius:10px;" />
 
 
 <h1 align="center">Hi, I'm Claudia 👋</h1>
