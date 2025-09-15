@@ -4,13 +4,13 @@
 <h1 align="center">Hi, I'm Claudia 👋</h1>
 
 <p align="center">
-  Quality Assurance · Future Web Developer · Physics graduate · AWS Certified 
+  Quality Assurance · Future Software Developer · Physics graduate · AWS Certified 
 </p>
 
 ---
 
 ## About Me
- Quality Assurance Professional with 5+ years of experience in manual testing, including test design, execution, defect tracking, regression, exploratory testing and documentation. I am experienced in collaborating closely with developers in Agile environments. Recently completed an intensive web development program, adding skills in HTML, CSS, and JavaScript to my QA background.
+  Quality Assurance Professional with 5+ years of experience in manual testing, including test design, execution, defect tracking, regression, exploratory testing and documentation. I am experienced in collaborating closely with developers in Agile environments. Recently completed an intensive web development program, adding skills in HTML, CSS, and JavaScript to my QA background.
 
 Working closely on web application projects with developers has inspired my creative tendencies. For this reason, my long-term goal is to transition into technical development roles. I am eager to work as part of a strong team as a developer because I take pride in solving problems by creating products that provide an intuitive and appealing user experience. My experience in QA gives me a unique insight into the development process - I believe my quality-first mindset is a great asset to any team.
 
@@ -21,10 +21,21 @@ To aid in my career transition, I recently completed a Web Development course, i
 ## Tech Stack
 
 - **Frontend:**    HTML · CSS · JavaScript · Bootstrap  
-- **Tools:**       Git · GitHub · Netlify · Jira  
-- **Other:**       Manual Testing · QA Strategy · Agile  
-- **Cloud:**       AWS Certified Cloud Practitioner  
+- **Tools:**       Git · GitHub · Netlify · Jira · Confluence · Netlify · VSCode   
+- **Testing & QA:** Test case design · Manual execution · Defect tracking · QA documentation · Agile
 
+--- 
+
+## Soft skills: 
+
+Attention to detail · Knowledge sharing · Empathetic leadership · Communication · Proactivity · Adaptability
+
+---
+
+## Certifications
+
+- [AWS Certified Cloud Practitioner June 2025](https://cp.certmetrics.com/amazon/en/public/verify/credential/9c57718d919e4876895bc9e296815a05)  
+- [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CC609514D8884496CF1FF7B51AF166DD71FCEFE81D07841C934898A831D3D7F2)
 ---
 
 ## Experience Snapshot
@@ -37,13 +48,10 @@ To aid in my career transition, I recently completed a Web Development course, i
 
 ---
 
-## Certifications
+## Education
 
-- AWS Certified Cloud Practitioner (2025)
 - Web Development & Cloud Computing – Mujer Digital · Junior Achievement (2024)  
-- Oracle Cloud Infrastructure 2023 Certified Foundations Associate  
-- Oracle Utilities Customer Cloud Service 2022 Certified Implementation Professional (2022)
-
+- Bachelor's degree in Physics - Universidad de Guadalajara, Mexico. Aug 2023 
 
 ---
 
@@ -54,6 +62,3 @@ To aid in my career transition, I recently completed a Web Development course, i
 🌐 [claudiaguerra.dev](https://claudiaguerra.dev)  
 💻 [github.com/ClaudiaGuerra](https://github.com/ClaudiaGuerra)
 
----
-
-<sub>This README was crafted with the creative support of Lucy (AI)</sub>
